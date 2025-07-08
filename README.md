@@ -1,4 +1,4 @@
-# LiaSabi24
+# LiaSab24
 <div align="center">
   <img height="150" src="https://github.com/LiaSab24/LiaSabi24/blob/main/mio2.png?raw=true"  />
 </div>
