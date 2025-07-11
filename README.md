@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm  from Berlin, but living now in Glücksburg....<br><br>- 📚 I'm currently deepening my programming skills with the Developer Academy<br>- 📚 I can only recommend them; you can also follow them here on GitHub<br>- now I want to actively exchange ideas with the community here on GitHub<br>- please bear with me, as I am still in the early stages of intensive GitHub use<br>- ⚡ In my free time, I enjoy reading a lot and exercise regularly to stay fit.</p>
+<p align="left">I'm  from Berlin, but living now in Glücksburg....<br><br>- 📚 I'm currently deepening my programming skills with the Developer Academy<br>- 📚 I can only recommend them; you can also follow them here on GitHub => https://github.com/Developer-Akademie-Frontendkurs<br>- now I want to actively exchange ideas with the community here on GitHub<br>- please bear with me, as I am still in the early stages of intensive GitHub use<br>- ⚡ In my free time, I enjoy reading a lot and exercise regularly to stay fit.</p>
 
 ###
 <p></p><br>
