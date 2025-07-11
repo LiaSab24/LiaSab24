@@ -19,10 +19,12 @@
 </div>
 
 ###
+<p></p><br>
 
 <h1 align="left">hey everyone 👋</h1>
 
 ###
+<p></p><br>
 
 <h3 align="left">👩‍💻  About Me and more ...</h3>
 
@@ -31,6 +33,7 @@
 <p align="left">I'm  from Berlin, but living now in Glücksburg....<br><br>- 📚 I'm currently deepening my programming skills with the Developer Academy<br>- 📚 I can only recommend them; you can also follow them here on GitHub<br>- now I want to actively exchange ideas with the community here on GitHub<br>- please bear with me, as I am still in the early stages of intensive GitHub use<br>- ⚡ In my free time, I enjoy reading a lot and exercise regularly to stay fit.</p>
 
 ###
+<p></p><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -50,5 +53,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="37" width="25" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="37" width="25" alt="wordpress logo"  />
 </div>
+
+###
+
+<p></p><br>
+
+###
+
+<h3 align="left">🖍️ my Orders </h3>
+<p>- 🔭 as a web designer, I was able to sign my first clients.<br></p>
 
 ###
